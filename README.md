@@ -11,4 +11,4 @@ This presentation page was created using the following technologies:
 
 To visualize the page result, click on the link below:
 
-[Hideki Nakao Profile](hidekinakao.netlify.app)
+[Hideki Nakao's Profile Page](https://hidekinakao.netlify.app/)
