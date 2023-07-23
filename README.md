@@ -9,6 +9,6 @@ This presentation page was created using the following technologies:
 
 - JavaScript
 
-The page result is visualized in the link bellow:
+To visualize the page result, click on the link below:
 
-hidekinakao.netlify.app
+[Hideki Nakao Profile](hidekinakao.netlify.app)
