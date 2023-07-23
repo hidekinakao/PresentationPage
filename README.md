@@ -8,3 +8,7 @@ This presentation page was created using the following technologies:
 - CSS3
 
 - JavaScript
+
+The page result is visualized in the link bellow:
+
+hidekinakao.netlify.app
